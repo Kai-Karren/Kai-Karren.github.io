@@ -1,23 +1,104 @@
+body
+{
+text-align:center;
+background-image:url('../images/index.jpg');
+
+}
+
+#Aboutme
+{
+width:398px;
+height:450px;
+border:2px solid grey;
+border-radius:5px;
+
+}
+
 #header
 {
-width:auro;
+width:auto;
 height:25px;
 background-color:yellow;
 
 
 
 }
-
-
-
-div.main
+#index-bar
 {
-background-color:blue;
+
+width:800px;
+height:750px;
+border:2px solid grey;
+border-radius:5px;
+margin:auto;
+
+}
+#index-header
+{
+width:250px;
+height:100px;
+margin:auto;
+
+}
+#top
+{
+width:800px;
+height:300px;
+background-image:url('../images/android02.jpg');
+
+}
+#left
+{
+width:400px;
+height:450px;
+float:right;
 
 
 
 }
-a.header:link
+#right
+{
+width:400px;
+height:450px;
+float:left;
+
+
+}
+#News
+{
+width:398px;
+height:450px;
+border:2px solid grey;
+border-radius:5px;
+
+}
+#news01
+{
+width:394px;
+height:auto;
+background-color:white;
+margin-top:15px;
+border:2px solid grey;
+border-radius:5px;
+}
+#news02
+{
+width:394px;
+height:auto;
+background-color:white;
+margin-top:15px;
+border:2px solid grey;
+border-radius:5px;
+}
+
+
+div.main
+{
+text-align:center;
+
+
+}
+a.a1:link
 {
 display: block;
 font-weight: bold;
@@ -26,7 +107,7 @@ background-color:blue;
 width:100px;
 text-align:center;
 padding:2px;
-text-decoration:uppercase;
+text-transform:uppercase;
 
 
 }
