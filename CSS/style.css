@@ -32,8 +32,8 @@ border-radius:5px;
 }
 div.profil_image
 {
-background-image:url('../images/profil_image')	
-float:left;	
+background-image:url('../images/profil_image');	
+float:left;
 }
 
 div.header
