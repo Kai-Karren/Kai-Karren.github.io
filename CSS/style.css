@@ -13,6 +13,28 @@ border:2px solid grey;
 border-radius:5px;
 
 }
+div.about_header
+{
+width:1000px;
+height:auto;	
+border:3px solid grey;
+border-radius:5px;	
+	
+	
+}
+div.about_main
+{
+width:1000px;
+height:auto;
+border:3px solid grey;
+border-radius:5px;
+	
+}
+div.profil_image
+{
+background-image:url('../images/profil_image')	
+float:left;	
+}
 
 div.header
 {
