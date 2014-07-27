@@ -5,7 +5,7 @@ background-image:url('../images/index.jpg');
 
 }
 
-#Aboutme
+div.Aboutme
 {
 width:398px;
 height:450px;
@@ -14,7 +14,7 @@ border-radius:5px;
 
 }
 
-#header
+div.header
 {
 width:auto;
 height:25px;
@@ -23,7 +23,7 @@ background-color:yellow;
 
 
 }
-#index-bar
+div.index-bar
 {
 
 width:800px;
@@ -33,21 +33,21 @@ border-radius:5px;
 margin:auto;
 
 }
-#index-header
+div.index-header
 {
 width:250px;
 height:100px;
 margin:auto;
 
 }
-#top
+div.top
 {
 width:800px;
 height:300px;
 background-image:url('../images/android02.jpg');
 
 }
-#left
+div.left
 {
 width:400px;
 height:450px;
@@ -56,7 +56,7 @@ float:right;
 
 
 }
-#right
+div.right
 {
 width:400px;
 height:450px;
@@ -64,7 +64,7 @@ float:left;
 
 
 }
-#News
+div.Projects
 {
 width:398px;
 height:450px;
@@ -72,7 +72,7 @@ border:2px solid grey;
 border-radius:5px;
 
 }
-#news01
+div.Project01
 {
 width:394px;
 height:auto;
@@ -81,7 +81,7 @@ margin-top:15px;
 border:2px solid grey;
 border-radius:5px;
 }
-#news02
+div.Project02
 {
 width:394px;
 height:auto;
@@ -90,7 +90,13 @@ margin-top:15px;
 border:2px solid grey;
 border-radius:5px;
 }
-
+div.project_news
+{
+	
+	
+	
+	
+}
 
 div.main
 {
