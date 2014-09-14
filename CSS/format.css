@@ -18,7 +18,7 @@ a.basic_navigation:link , a.basic_navigation:visited
 	width:220px;
 	font-weight:bold;
 	color: black;
-	background-color:  gray;
+	background-color:#009999;
 	text-align:center;
 	padding:89px;
 	padding-right:75px;
@@ -27,15 +27,26 @@ a.basic_navigation:link , a.basic_navigation:visited
 }
 a.basic_navigation:hover, a.basic_navigation:active
 {
-
-background-color: green;
-
-
+background-color:#426F6F;
+}
+a.basic_navigation_currentLocation:link , a.basic_navigation_currentLocation:visited
+{
+	display:block;
+	width:220px;
+	font-weight:bold;
+	color: black;
+	background-color:#668585;
+	text-align:center;
+	padding:89px;
+	padding-right:75px;
+	text-decoration:none;
+	text-transform: uppercase;
 }
 
-
-
-
+a.basic_navigation_currentLocation:hover , a.basic_navigation_currentLocation:active
+{
+background-color:#426F6F;
+}
 
 a.a1:link
 {
