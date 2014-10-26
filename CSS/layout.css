@@ -74,6 +74,25 @@ max-width:100%;
 
 }
 
+.a1_current:link , .a1_current:visited
+{
+    float:left;
+    display:block;
+    background-color:#4C4646;
+    font-weight:bold;
+    color:black;
+    text-transform:uppercase;
+    text-decoration:none;
+    width:24%;
+    padding-top:0.5%;
+    padding-bottom:0.5%; 
+    margin:0 .5%;
+    text-align: center;
+
+}
+
+
+
 @media screen and (max-width:600px)
 {
     .a1:link , .a1:visited
@@ -92,7 +111,25 @@ max-width:100%;
     text-align: center;
 
 }
+    .a1_current:link , .a1_current:visited
+{
+    
+    display:block;
+    background-color:#4C4646;
+    font-weight:bold;
+    color:black;
+    text-transform:uppercase;
+    text-decoration:none;
+    width:49%;
+    padding-top:5%;
+    padding-bottom:5%; 
+    margin:.5% .5%;
+    text-align: center;
+
+}    
+    
 }
+
 
 
 
