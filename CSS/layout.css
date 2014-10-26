@@ -74,6 +74,7 @@ max-width:100%;
 
 }
 
+<<<<<<< HEAD
 .a1_current:link , .a1_current:visited
 {
     float:left;
@@ -94,6 +95,9 @@ max-width:100%;
 
 
 @media screen and (max-width:600px)
+=======
+@media screen and (max-width:800px)
+>>>>>>> origin/master
 {
     .a1:link , .a1:visited
 {
